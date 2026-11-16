@@ -1,1 +1,206 @@
-{}
+{
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=CHEM%20%20%20&crs_catlg_no=0014BL%20%20&class_id=142117200&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Chem 14BL Lec 1",
+    "state": "OPEN",
+    "summary": "22 spots left, waitlist 1/24"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=CHEM%20%20%20&crs_catlg_no=0014BL%20%20&class_id=142117220&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Chem 14BL Lec 2",
+    "state": "OPEN",
+    "summary": "10 spots left, waitlist 5/24"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=CHEM%20%20%20&crs_catlg_no=0014BL%20%20&class_id=142117240&class_no=%20003%20%20": {
+    "fails": 0,
+    "name": "Chem 14BL Lec 3",
+    "state": "OPEN",
+    "summary": "3 spots left, waitlist full (24)"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=LIFESCI&crs_catlg_no=0007L%20%20%20&class_id=252027200&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "LS 7L Lec 1",
+    "state": "FULL",
+    "summary": "class full (645), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026200&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Lec 1",
+    "state": "FULL",
+    "summary": "class full (292), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026201&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 1A",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026202&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 1B",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026203&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 1C",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026204&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 1D",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026210&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Lec 2",
+    "state": "FULL",
+    "summary": "class full (292), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026211&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 2A",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026212&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 2B",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026213&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 2C",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026214&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 2D",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026220&class_no=%20003%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Lec 3",
+    "state": "FULL",
+    "summary": "class full (293), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026221&class_no=%20003%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 3A",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026222&class_no=%20003%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 3B",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026223&class_no=%20003%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 3C",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026224&class_no=%20003%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 3D",
+    "state": "FULL",
+    "summary": "class full (74), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026230&class_no=%20004%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Lec 4",
+    "state": "FULL",
+    "summary": "class full (293), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026231&class_no=%20004%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 4A",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026232&class_no=%20004%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 4B",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026233&class_no=%20004%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 4C",
+    "state": "FULL",
+    "summary": "class full (73), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005B%20%20%20&class_id=318026234&class_no=%20004%20%20": {
+    "fails": 0,
+    "name": "Physics 5B Dis 4D",
+    "state": "FULL",
+    "summary": "class full (74), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027200&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Lec 1",
+    "state": "FULL",
+    "summary": "class full (196), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027201&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Dis 1A",
+    "state": "FULL",
+    "summary": "class full (58), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027202&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Dis 1B",
+    "state": "FULL",
+    "summary": "class full (58), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027203&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Dis 1C",
+    "state": "FULL",
+    "summary": "class full (40), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027204&class_no=%20001%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Dis 1D",
+    "state": "FULL",
+    "summary": "class full (40), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027210&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Lec 2",
+    "state": "FULL",
+    "summary": "class full (197), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027211&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Dis 2A",
+    "state": "FULL",
+    "summary": "class full (40), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027212&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Dis 2B",
+    "state": "FULL",
+    "summary": "class full (58), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027213&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Dis 2C",
+    "state": "FULL",
+    "summary": "class full (59), no waitlist"
+  },
+  "https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=27W&subj_area_cd=PHYSICS&crs_catlg_no=0005C%20%20%20&class_id=318027214&class_no=%20002%20%20": {
+    "fails": 0,
+    "name": "Physics 5C Dis 2D",
+    "state": "FULL",
+    "summary": "class full (40), no waitlist"
+  }
+}
